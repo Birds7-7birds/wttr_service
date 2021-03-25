@@ -7,8 +7,8 @@ this will open vim editor.
 2. hit 'i' key on keyboard. this put you into insert mode
 change the lines to reflect the location of the wttr directory (usually just change vagrant)
 
-`ExecStart=/home/vagrant/wttr
-WorkingDirectory=/home/vagrant/`
+`ExecStart=/home/vagrant/wttr`
+`WorkingDirectory=/home/vagrant/`
 
 use hit the escape key and exit vim using `:wq:`
 
