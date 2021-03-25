@@ -10,7 +10,7 @@ change the lines to reflect the location of the wttr directory (usually just cha
 `ExecStart=/home/vagrant/wttr`
 
 `WorkingDirectory=/home/vagrant/`
-
+you may want to change the line `curl http://wttr.in > wttr.today` to `curl http://wttr.in > /etc/motd`
 use hit the escape key and exit vim using `:wq:`
 
 3. use the folling 2 commands
