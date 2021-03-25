@@ -11,7 +11,7 @@ change the lines to reflect the location of the wttr directory (usually just cha
 
 `WorkingDirectory=/home/vagrant/`
 
-you may want to change the line `curl http://wttr.in > wttr.today` to `curl http://wttr.in > /etc/motd`
+you may want to change the line `curl http://wttr.in > wttr.today` to `curl http://wttr.in > /etc/motd` if you want it displayed on login
 
 use hit the escape key and exit vim using `:wq:`
 
