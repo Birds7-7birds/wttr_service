@@ -1,7 +1,7 @@
 # wttr_service
 weather service that auto updates
 
-after downloading the repo, do the following 
+after downloading the repo, and making note of your directory, do the following 
 1. `sudo vim wttr.service`
 this will open vim editor.
 2. hit 'i' key on keyboard. this put you into insert mode
